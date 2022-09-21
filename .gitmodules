@@ -1,0 +1,3 @@
+[submodule "transformationInvariantImageSearch"]
+	path = transformationInvariantImageSearch
+	url = https://github.com/pippy360/transformationInvariantImageSearch
