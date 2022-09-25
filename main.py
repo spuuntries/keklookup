@@ -28,5 +28,5 @@ async def on_message(message: discord.Message):
                 similars = await lookup(attachment.url)
                 if len(similars) < 0:
                     return
-                for sim in similars: 
-                    sim[]
+                for sim in similars:
+                    sim
